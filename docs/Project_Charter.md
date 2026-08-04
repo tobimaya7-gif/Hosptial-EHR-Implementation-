@@ -27,6 +27,50 @@ and enhance data accuracy.
 - ensure compliance with healthcare privacy and security regulations
 
 ## Project Scope 
-(what the project will include and wont) 
+(what the project will include and won't) 
 Responsible for 
-- I nstalling the CareSync EHR System 
+- Installing the CareSync EHR System
+- Data migration
+- User training
+- Testing
+- Go-Live support
+- Post-Go-Live optimization
+
+### Not my task 
+- Construction or building renovations
+- Hiring Doctors or nurses
+- Remodeling hospital rooms 
+- Medical equipment replacement
+- Payroll system replacement
+
+
+# Timeline 
+Estimated Time length:  4 - 6 months 
+Planning = 1 month 
+System configuration & Design = 5 weeks 
+Data Migration = 2 weeks 
+Testing = 1 month 
+Training = 3 weeks 
+Go-Live = 1 week 
+Optimization = 3 weeks 
+
+# Key Stakeholders 
+
+- Executive Leadership
+- CIO 
+- IT Department
+- Physicians
+- Nurses
+- Registration Staff
+- Laboratory
+- Pharmacy
+- Patients
+
+## Success Criteria 
+ - CareSync EHR is fully operational
+ - All staff complete training before Go-Live
+ - Patient records are migrated accurately
+ - Minimal downtime during implementation
+ - Project finished on time and within budget
+
+
