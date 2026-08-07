@@ -1,5 +1,5 @@
-# Hosptial-EHR-Implementation-
-Implementation Specialist: The hospital wants to replace its paper charts with Epic
+# Hospital-EHR-Implementation-
+Implementation Specialist: The hospital wants to replace its paper charts with CareSync
 
 #Overview 
 This repository documents a simulated implementation of an Electronic Health Record (EHR) system at Sunrise Community Hospital.
